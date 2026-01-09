@@ -1,0 +1,20 @@
+title: 我的資安研究站
+description: 記錄資安學習與研究的技術部落格
+author: Your Name
+email: your@email.com
+
+# 主題設定
+theme: minima
+
+# 部落格設定
+permalink: /blog/:year/:month/:title/
+paginate: 5
+
+# 社群連結
+github_username: yourusername
+twitter_username: yourusername
+linkedin_username: yourusername
+
+# Markdown 設定
+markdown: kramdown
+highlighter: rouge
